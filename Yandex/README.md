@@ -26,6 +26,7 @@
 - KNN
 - GradientBoosting
 - LogReg
+  
 Также, решение принимала на основе результатов по нескольким метрикам:
 - precision
 - recall
